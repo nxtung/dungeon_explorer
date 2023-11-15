@@ -1,0 +1,1147 @@
+{
+	"Datas": [
+		{
+			"Room": "Room #1",
+			"Description": "West Entry Unlocked Iron Door\n→ Leads to room #98, inhabited by 1 x Troglodyte Zombie\n South Entry Archway\n Room Features Ghostly music can be faintly heard near the north wall, and a broken hammer lies in the south side of the room\n Monster 1 x Troglodyte Zombie\nTreasure: 5000 cp; hoard total 50 gp",
+			"title": "Room #1, 70' x 70', 1 x Troglodyte Zombie",
+			"coords": "658,322,756,420",
+			"alt": "Room #1, 70' x 70', 1 x Troglodyte Zombie",
+			"shape": "rect",
+			"href": "#room_1"
+		},
+		{
+			"Room": "Room #2",
+			"Description": "North Entry #1 Stuck Strong Wooden Door\n→ Leads to room #32, inhabited by 1 x Wolf Skeleton\n North Entry #2 Stuck Simple Wooden Door\n South Entry Stuck Strong Wooden Door\n→ Leads to room #4\n ",
+			"href": "#room_2",
+			"shape": "rect",
+			"alt": "Room #2, 70' x 70', Empty",
+			"coords": "770,322,868,420",
+			"title": "Room #2, 70' x 70', Empty"
+		},
+		{
+			"Room": "Room #3",
+			"Description": "North Entry Trapped Iron Portcullis\nⓉ Portcullis Trap\n→ Leads to room #112\n East Entry #1 Stuck Simple Wooden Door\n East Entry #2 Unlocked Simple Wooden Door (slides down)\n Room Features A carved stone statue stands in the south side of the room, and a mouldy odor fills the north-west corner of the room\n Monster 1 x Wight\nTreasure: 700 sp; Pair of Drake Hide Boots trimmed with Ermine (6000 gp); Wand of Detect Magic; hoard total 6070 gp",
+			"coords": "882,322,980,420",
+			"title": "Room #3, 70' x 70', 1 x Wight",
+			"alt": "Room #3, 70' x 70', 1 x Wight",
+			"href": "#room_3",
+			"shape": "rect"
+		},
+		{
+			"Room": "Room #4",
+			"Description": "North Entry Stuck Strong Wooden Door\n→ Leads to room #2\n West Entry #1 Archway\n→ Leads to room #23, inhabited by 1 x Wolf Skeleton\n West Entry #2 Unlocked Strong Wooden Door\n East Entry Unlocked Simple Wooden Door\n ",
+			"alt": "Room #4, 70' x 70', Empty",
+			"href": "#room_4",
+			"shape": "rect",
+			"coords": "770,434,868,532",
+			"title": "Room #4, 70' x 70', Empty"
+		},
+		{
+			"Room": "Room #5",
+			"Description": "North Entry #1 Stuck Simple Wooden Door\n North Entry #2 Stuck Strong Wooden Door\n West Entry Stuck Strong Wooden Door\n→ Leads to room #119\n East Entry Archway\n→ Leads to room #6, inhabited by 5 x Human Warrior Skeleton\n South Entry Unlocked Strong Wooden Door\n→ Leads to room #58\n Room Features A stack of barrels filled with rotting fruit stands against the west wall, and acid drips from the ceiling in the north side of the room",
+			"alt": "Room #5, 70' x 70', Empty",
+			"href": "#room_5",
+			"shape": "rect",
+			"coords": "658,546,756,644",
+			"title": "Room #5, 70' x 70', Empty"
+		},
+		{
+			"Room": "Room #6",
+			"Description": "West Entry Archway\n→ Leads to room #5\n East Entry Stuck Iron Door\n→ Leads to room #7\n Monster 5 x Human Warrior Skeleton\nTreasure: 110 gp; hoard total 110 gp",
+			"alt": "Room #6, 70' x 70', 5 x Human Warrior Skeleton",
+			"shape": "rect",
+			"href": "#room_6",
+			"title": "Room #6, 70' x 70', 5 x Human Warrior Skeleton",
+			"coords": "770,546,868,644"
+		},
+		{
+			"Room": "Room #7",
+			"Description": "North Entry #1 Stuck Good Wooden Door\n North Entry #2 Stuck Good Wooden Door\n→ Leads to room #80\n West Entry Stuck Iron Door\n→ Leads to room #6, inhabited by 5 x Human Warrior Skeleton\n South Entry #1 Stuck Strong Wooden Door\n South Entry #2 Unlocked Simple Wooden Door\n→ Leads to room #94, inhabited by 1 x Bugbear Zombie\n ",
+			"shape": "rect",
+			"href": "#room_7",
+			"alt": "Room #7, 70' x 70', Empty",
+			"title": "Room #7, 70' x 70', Empty",
+			"coords": "882,546,980,644"
+		},
+		{
+			"Room": "Room #8",
+			"Description": "North Entry Stuck Simple Wooden Door\n South Entry Archway\n Room Features Several square holes are cut into the north wall, and someone has scrawled \"Don't sleep\" on the east wall\n Monster 3 x Human Commoner Zombie\nTreasure: 5000 cp; hoard total 50 gp",
+			"coords": "350,70,448,168",
+			"title": "Room #8, 70' x 70', 3 x Human Commoner Zombie",
+			"href": "#room_8",
+			"shape": "rect",
+			"alt": "Room #8, 70' x 70', 3 x Human Commoner Zombie"
+		},
+		{
+			"Room": "Room #9",
+			"Description": "North Entry Unlocked Good Wooden Door\n→ Leads to room #115, inhabited by 1 x Ghoul\n East Entry Stuck Simple Wooden Door\n→ Leads to room #44, inhabited by 1 x Troglodyte Zombie\n ",
+			"title": "Room #9, 30' x 30', Empty",
+			"coords": "210,826,252,868",
+			"alt": "Room #9, 30' x 30', Empty",
+			"shape": "rect",
+			"href": "#room_9"
+		},
+		{
+			"Room": "Room #10",
+			"Description": "North Entry Archway\n→ Leads to room #61, inhabited by 4 x Human Warrior Skeleton\n West Entry Stuck Simple Wooden Door\n→ Leads to room #97\n East Entry Archway\n South Entry Stuck Stone Door\n→ Leads to room #70, inhabited by 2 x Human Warrior Skeleton\n Room Features Part of the ceiling has collapsed into the room, and someone has scrawled \"Ran out of rope\" in blood on the east wall\n Monster 1 x Owlbear Skeleton\nTreasure: 1000 cp; hoard total 10 gp",
+			"alt": "Room #10, 50' x 50', 1 x Owlbear Skeleton",
+			"href": "#room_10",
+			"shape": "poly",
+			"coords": "609,770,642,794,629,833,588,833,575,794",
+			"title": "Room #10, 50' x 50', 1 x Owlbear Skeleton"
+		},
+		{
+			"Room": "Room #11",
+			"Description": "East Entry Wooden Portcullis\n Room Features A well lies in the center of the room, and a pile of torches lies in the east side of the room",
+			"title": "Room #11, 30' x 30', Empty",
+			"coords": "574,434,616,476",
+			"shape": "rect",
+			"href": "#room_11",
+			"alt": "Room #11, 30' x 30', Empty"
+		},
+		{
+			"Room": "Room #12",
+			"Description": "North Entry Stuck Good Wooden Door\n Room Features A tile labyrinth covers the floor, and someone has scrawled \"Watch out for basilisk\" in orcish runes on the east wall\n Monster 1 x Wolf Skeleton\nTreasure: 200 sp; hoard total 20 gp",
+			"coords": "518,322,588,392",
+			"title": "Room #12, 50' x 50', 1 x Wolf Skeleton",
+			"alt": "Room #12, 50' x 50', 1 x Wolf Skeleton",
+			"href": "#room_12",
+			"shape": "rect"
+		},
+		{
+			"Room": "Room #13",
+			"Description": "West Entry #1 Archway\n→ Leads to room #42\n West Entry #2 Unlocked Simple Wooden Door\n Room Features Someone has scrawled \"Kill them with fire\" on the west wall, and a metallic odor fills the north-east corner of the room",
+			"coords": "490,910,532,1008",
+			"title": "Room #13, 30' x 70', Empty",
+			"href": "#room_13",
+			"shape": "rect",
+			"alt": "Room #13, 30' x 70', Empty"
+		},
+		{
+			"Room": "Room #14",
+			"Description": "West Entry Unlocked Simple Wooden Door\n→ Leads to room #62, inhabited by 1 x Ghoul\n South Entry Stuck Good Wooden Door\n Monster 3 x Human Warrior Skeleton\nTreasure: 1000 cp; Good Lock (80 gp); hoard total 90 gp",
+			"shape": "rect",
+			"href": "#room_14",
+			"alt": "Room #14, 30' x 30', 3 x Human Warrior Skeleton",
+			"title": "Room #14, 30' x 30', 3 x Human Warrior Skeleton",
+			"coords": "826,1050,868,1092"
+		},
+		{
+			"Room": "Room #15",
+			"Description": "West Entry Archway\n→ Leads to room #28, inhabited by 1 x Troglodyte Zombie\n ",
+			"title": "Room #15, 30' x 30', Empty",
+			"coords": "546,1134,588,1176",
+			"alt": "Room #15, 30' x 30', Empty",
+			"shape": "rect",
+			"href": "#room_15"
+		},
+		{
+			"Room": "Room #16",
+			"Description": "North Entry Stuck Simple Wooden Door\n East Entry Stuck Good Wooden Door\n→ Leads to room #28, inhabited by 1 x Troglodyte Zombie\n South Entry Stuck Simple Wooden Door\n→ Leads to room #20\n Room Features A tapestry of arcane patterns hangs from the south wall, and someone has scrawled \"I've forgotten my name\" on the west wall\n Monster 4 x Human Warrior Skeleton\nTreasure: 80 gp; Thieves' Tools (50 gp); hoard total 130 gp",
+			"alt": "Room #16, 30' x 30', 4 x Human Warrior Skeleton",
+			"href": "#room_16",
+			"shape": "rect",
+			"coords": "406,1162,448,1204",
+			"title": "Room #16, 30' x 30', 4 x Human Warrior Skeleton"
+		},
+		{
+			"Room": "Room #17",
+			"Description": "North Entry Unlocked Simple Wooden Door\n West Entry Unlocked Simple Wooden Door\n East Entry Stuck Simple Wooden Door\n Room Features Someone has scrawled \"For the glory of the Lich Queen\" in orcish runes on the north wall, and a warped door lies in the west side of the room\n Monster 1 x Troglodyte Zombie\nTreasure: Crossbow Bolts (50) (10 gp); hoard total 10 gp",
+			"coords": "518,154,588,252",
+			"title": "Room #17, 50' x 70', 1 x Troglodyte Zombie",
+			"href": "#room_17",
+			"shape": "rect",
+			"alt": "Room #17, 50' x 70', 1 x Troglodyte Zombie"
+		},
+		{
+			"Room": "Room #18",
+			"Description": "North Entry Stuck Strong Wooden Door\n East Entry Stuck Stone Door (slides down)\n South Entry Unlocked Strong Wooden Door\n Monster 1 x Ghoul\nTreasure: 400 sp; Full Plate (1500 gp); hoard total 1540 gp",
+			"href": "#room_18",
+			"shape": "rect",
+			"alt": "Room #18, 70' x 70', 1 x Ghoul",
+			"coords": "406,350,504,448",
+			"title": "Room #18, 70' x 70', 1 x Ghoul"
+		},
+		{
+			"Room": "Room #19",
+			"Description": "North Entry Stuck Simple Wooden Door\n→ Leads to room #118\n West Entry Unlocked Simple Wooden Door\n Room Features A chute falls into the room from above, and a pile of torches lies in the center of the room",
+			"shape": "rect",
+			"href": "#room_19",
+			"alt": "Room #19, 50' x 30', Empty",
+			"title": "Room #19, 50' x 30', Empty",
+			"coords": "910,126,980,168"
+		},
+		{
+			"Room": "Room #20",
+			"Description": "North Entry Stuck Simple Wooden Door\n→ Leads to room #16, inhabited by 4 x Human Warrior Skeleton\n West Entry Unlocked Simple Wooden Door\n ",
+			"coords": "350,1218,448,1288",
+			"title": "Room #20, 70' x 50', Empty",
+			"alt": "Room #20, 70' x 50', Empty",
+			"href": "#room_20",
+			"shape": "rect"
+		},
+		{
+			"Room": "Room #21",
+			"Description": "North Entry Iron Portcullis\n→ Leads to room #66\n West Entry Unlocked Good Wooden Door (slides up)\n Room Features A wooden ladder rests against the east wall, and a pile of rotten fruit lies in the east side of the room",
+			"title": "Room #21, 30' x 30', Empty",
+			"coords": "70,350,112,392",
+			"shape": "rect",
+			"href": "#room_21",
+			"alt": "Room #21, 30' x 30', Empty"
+		},
+		{
+			"Room": "Room #22",
+			"Description": "North Entry #1 Stuck Simple Wooden Door (magically reinforced)\n→ Leads to room #31, inhabited by 1 x Troglodyte Zombie\n North Entry #2 Stuck Good Wooden Door\n West Entry Unlocked Strong Wooden Door\n→ Leads to room #114\n East Entry Archway\n Monster 2 x Human Warrior Skeleton\nTreasure: 20 gp; White Pearl (100 gp); hoard total 120 gp",
+			"title": "Room #22, 50' x 50', 2 x Human Warrior Skeleton",
+			"coords": "469,658,504,693,469,728,434,693",
+			"alt": "Room #22, 50' x 50', 2 x Human Warrior Skeleton",
+			"shape": "poly",
+			"href": "#room_22"
+		},
+		{
+			"Room": "Room #23",
+			"Description": "West Entry Wooden Portcullis\n East Entry Archway\n→ Leads to room #4\n Room Features A tapestry of legendary monsters hangs from the south wall, and an iron chain hangs from the ceiling in the east side of the room\n Monster 1 x Wolf Skeleton\nTreasure: Simple Lock (20 gp); hoard total 20 gp",
+			"alt": "Room #23, 30' x 50', 1 x Wolf Skeleton",
+			"href": "#room_23",
+			"shape": "rect",
+			"coords": "714,434,756,504",
+			"title": "Room #23, 30' x 50', 1 x Wolf Skeleton"
+		},
+		{
+			"Room": "Room #24",
+			"Description": "North Entry Archway\n→ Leads to room #108, inhabited by 3 x Human Warrior Skeleton\n West Entry Unlocked Strong Wooden Door\n East Entry Unlocked Strong Wooden Door\n→ Leads to room #51, inhabited by 1 x Troglodyte Zombie\n Room Features A tile labyrinth covers the floor, and a foul odor fills the north-west corner of the room\n Monster 1 x Troglodyte Zombie\nTreasure: 700 sp; hoard total 70 gp",
+			"coords": "42,658,140,756",
+			"title": "Room #24, 70' x 70', 1 x Troglodyte Zombie",
+			"href": "#room_24",
+			"shape": "rect",
+			"alt": "Room #24, 70' x 70', 1 x Troglodyte Zombie"
+		},
+		{
+			"Room": "Room #25",
+			"Description": "West Entry Unlocked Strong Wooden Door\n South Entry Wooden Portcullis\n Room Features A ruined siege weapon sits in the south side of the room, and a broken hammer lies in the south-east corner of the room\n Monster 3 x Human Warrior Skeleton\nTreasure: None",
+			"shape": "poly",
+			"href": "#room_25",
+			"alt": "Room #25, 50' x 50', 3 x Human Warrior Skeleton",
+			"title": "Room #25, 50' x 50', 3 x Human Warrior Skeleton",
+			"coords": "329,1106,362,1130,349,1169,308,1169,295,1130"
+		},
+		{
+			"Room": "Room #26",
+			"Description": "North Entry Archway\n East Entry Archway\n→ Leads to room #114\n South Entry #1 Unlocked Simple Wooden Door\n→ Leads to room #115, inhabited by 1 x Ghoul\n South Entry #2 Unlocked Good Wooden Door\n Monster 1 x Ghoul\nTreasure: 100 gp; hoard total 100 gp",
+			"shape": "rect",
+			"href": "#room_26",
+			"alt": "Room #26, 30' x 30', 1 x Ghoul",
+			"title": "Room #26, 30' x 30', 1 x Ghoul",
+			"coords": "322,714,364,756"
+		},
+		{
+			"Room": "Room #27",
+			"Description": "North Entry Archway\n→ Leads to room #77, inhabited by 1 x Wolf Skeleton\n South Entry Unlocked Strong Wooden Door\n→ Leads to room #122, inhabited by 2 x Human Warrior Skeleton\n Monster 1 x Wolf Skeleton\nTreasure: 110 gp; Deep Blue Spinel (300 gp); hoard total 410 gp",
+			"coords": "931,1134,969,1152,978,1193,952,1227,909,1227,883,1193,892,1152",
+			"title": "Room #27, 70' x 70', 1 x Wolf Skeleton",
+			"href": "#room_27",
+			"shape": "poly",
+			"alt": "Room #27, 70' x 70', 1 x Wolf Skeleton"
+		},
+		{
+			"Room": "Room #28",
+			"Description": "North Entry Archway\n West Entry Stuck Good Wooden Door\n→ Leads to room #16, inhabited by 4 x Human Warrior Skeleton\n East Entry Archway\n→ Leads to room #15\n South Entry Stuck Simple Wooden Door\n Room Features A mural of a legendary battle covers the ceiling, and a charred blanket lies in the south side of the room\n Monster 1 x Troglodyte Zombie\nTreasure: 30 pp; Greatsword (50 gp); hoard total 350 gp\n Hidden Treasure Hidden Locked Simple Wooden Chest (common lock)\n4000 cp; hoard total 40 gp",
+			"coords": "497,1134,524,1147,531,1176,512,1200,481,1200,462,1176,469,1147",
+			"title": "Room #28, 50' x 50', 1 x Troglodyte Zombie, Hidden Treasure",
+			"alt": "Room #28, 50' x 50', 1 x Troglodyte Zombie, Hidden Treasure",
+			"href": "#room_28",
+			"shape": "poly"
+		},
+		{
+			"Room": "Room #29",
+			"Description": "West Entry Archway\n ",
+			"alt": "Room #29, 70' x 30', Empty",
+			"href": "#room_29",
+			"shape": "rect",
+			"coords": "714,798,812,840",
+			"title": "Room #29, 70' x 30', Empty"
+		},
+		{
+			"Room": "Room #30",
+			"Description": "West Entry Stuck Good Wooden Door\n→ Leads to room #124, inhabited by 1 x Ghoul\n East Entry Unlocked Simple Wooden Door\n Room Features Someone has scrawled \"The cleric will betray you\" on the north wall, and an unidentifiable odor fills the north-west corner of the room\n Monster 1 x Wolf Skeleton\nTreasure: None",
+			"alt": "Room #30, 30' x 70', 1 x Wolf Skeleton",
+			"href": "#room_30",
+			"shape": "rect",
+			"coords": "98,406,140,504",
+			"title": "Room #30, 30' x 70', 1 x Wolf Skeleton"
+		},
+		{
+			"Room": "Room #31",
+			"Description": "South Entry Stuck Simple Wooden Door (magically reinforced)\n→ Leads to room #22, inhabited by 2 x Human Warrior Skeleton\n Monster 1 x Troglodyte Zombie\nTreasure: 20 pp; hoard total 200 gp",
+			"alt": "Room #31, 30' x 50', 1 x Troglodyte Zombie",
+			"href": "#room_31",
+			"shape": "rect",
+			"coords": "406,574,448,644",
+			"title": "Room #31, 30' x 50', 1 x Troglodyte Zombie"
+		},
+		{
+			"Room": "Room #32",
+			"Description": "West Entry Stuck Good Wooden Door\n→ Leads to room #89, inhabited by 1 x Wight\n South Entry Stuck Strong Wooden Door\n→ Leads to room #2\n Room Features A rope ascends to a catwalk hanging between the north and south walls, and several pieces of rotting wood are scattered throughout the room\n Monster 1 x Wolf Skeleton\nTreasure: Light Steel Shield (9 gp); hoard total 9 gp",
+			"alt": "Room #32, 30' x 70', 1 x Wolf Skeleton",
+			"href": "#room_32",
+			"shape": "rect",
+			"coords": "770,210,812,308",
+			"title": "Room #32, 30' x 70', 1 x Wolf Skeleton"
+		},
+		{
+			"Room": "Room #33",
+			"Description": "North Entry Wooden Portcullis\n West Entry Stuck Iron Door\n East Entry Archway\n→ Leads to room #56, inhabited by 4 x Human Warrior Skeleton\n Monster 1 x Ogre Zombie\nTreasure: 110 gp; hoard total 110 gp",
+			"alt": "Room #33, 30' x 30', 1 x Ogre Zombie",
+			"shape": "rect",
+			"href": "#room_33",
+			"title": "Room #33, 30' x 30', 1 x Ogre Zombie",
+			"coords": "210,630,252,672"
+		},
+		{
+			"Room": "Room #34",
+			"Description": "West Entry Archway\n→ Leads to room #116, inhabited by 1 x Troglodyte Zombie\n East Entry Unlocked Simple Wooden Door\n Room Features Several iron cages are scattered throughout the room, and someone has scrawled a basic map of the dungeon on the east wall\n Monster 4 x Human Warrior Skeleton\nTreasure: 100 sp; hoard total 10 gp",
+			"href": "#room_34",
+			"shape": "rect",
+			"alt": "Room #34, 70' x 70', 4 x Human Warrior Skeleton",
+			"coords": "770,70,868,168",
+			"title": "Room #34, 70' x 70', 4 x Human Warrior Skeleton"
+		},
+		{
+			"Room": "Room #35",
+			"Description": "North Entry Unlocked Strong Wooden Door\n West Entry Unlocked Good Wooden Door\n ",
+			"coords": "826,182,924,224",
+			"title": "Room #35, 70' x 30', Empty",
+			"alt": "Room #35, 70' x 30', Empty",
+			"href": "#room_35",
+			"shape": "rect"
+		},
+		{
+			"Room": "Room #36",
+			"Description": "South Entry Unlocked Strong Wooden Door\n→ Leads to room #120\n Monster 4 x Human Warrior Skeleton\nTreasure: 30 gp; hoard total 30 gp",
+			"alt": "Room #36, 30' x 30', 4 x Human Warrior Skeleton",
+			"href": "#room_36",
+			"shape": "rect",
+			"coords": "98,798,140,840",
+			"title": "Room #36, 30' x 30', 4 x Human Warrior Skeleton"
+		},
+		{
+			"Room": "Room #37",
+			"Description": "North Entry #1 Trapped Wooden Portcullis\nⓉ Javelin Trap\n→ Leads to room #114\n North Entry #2 Stuck Simple Wooden Door\n West Entry Stuck Stone Door\n Monster 3 x Human Warrior Skeleton\nTreasure: 160 gp; hoard total 160 gp",
+			"alt": "Room #37, 70' x 70', 3 x Human Warrior Skeleton",
+			"href": "#room_37",
+			"shape": "rect",
+			"coords": "378,770,476,868",
+			"title": "Room #37, 70' x 70', 3 x Human Warrior Skeleton"
+		},
+		{
+			"Room": "Room #38",
+			"Description": "West Entry Wooden Portcullis\n ",
+			"alt": "Room #38, 30' x 30', Empty",
+			"href": "#room_38",
+			"shape": "rect",
+			"coords": "938,798,980,840",
+			"title": "Room #38, 30' x 30', Empty"
+		},
+		{
+			"Room": "Room #39",
+			"Description": "North Entry Wooden Portcullis\n→ Leads to room #45, inhabited by 1 x Troglodyte Zombie\n West Entry Unlocked Simple Wooden Door\n East Entry Unlocked Simple Wooden Door\n Room Features A stone dais and throne sits in the south side of the room, and a bloody journal lies in the center of the room\n Monster 1 x Ghoul\nTreasure: 5000 cp; hoard total 50 gp",
+			"alt": "Room #39, 70' x 30', 1 x Ghoul",
+			"href": "#room_39",
+			"shape": "rect",
+			"coords": "238,406,336,448",
+			"title": "Room #39, 70' x 30', 1 x Ghoul"
+		},
+		{
+			"Room": "Room #40",
+			"Description": "North Entry Stuck Iron Door\n→ Leads to room #120\n West Entry Wooden Portcullis\n Room Features A stone stair ascends towards the east wall, and someone has scrawled \"It's a trap\" on the west wall\n Monster 3 x Human Warrior Skeleton\nTreasure: 90 gp; hoard total 90 gp",
+			"alt": "Room #40, 30' x 50', 3 x Human Warrior Skeleton",
+			"shape": "rect",
+			"href": "#room_40",
+			"title": "Room #40, 30' x 50', 3 x Human Warrior Skeleton",
+			"coords": "98,910,140,980"
+		},
+		{
+			"Room": "Room #41",
+			"Description": "North Entry Archway\n→ Leads to room #123, inhabited by 1 x Ghast\n East Entry Archway\n→ Leads to room #103\n South Entry Stuck Stone Door\n→ Leads to room #56, inhabited by 4 x Human Warrior Skeleton\n Room Features The floor is covered in square tiles, alternating white and black, and a bloody journal lies in the south side of the room\n Monster 2 x Kobold Zombie\nTreasure: 100 gp; Banded Mail (250 gp); hoard total 350 gp\n Trap Camouflaged Pit Trap\n Hidden Treasure Hidden Locked Strong Wooden Chest (good lock)\nNone",
+			"href": "#room_41",
+			"shape": "poly",
+			"alt": "Room #41, 70' x 70', 2 x Kobold Zombie, Camouflaged Pit Trap, Hidden Treasure",
+			"coords": "287,518,333,551,315,606,258,606,240,551",
+			"title": "Room #41, 70' x 70', 2 x Kobold Zombie, Camouflaged Pit Trap, Hidden Treasure"
+		},
+		{
+			"Room": "Room #42",
+			"Description": "West Entry Wooden Portcullis\n East Entry Archway\n→ Leads to room #13\n South Entry Stuck Iron Door\n→ Leads to room #99\n Room Features Several alcoves are cut into the north and south walls, and someone has scrawled \"Stay right\" on the east wall\n Trap Pit Trap",
+			"title": "Room #42, 50' x 50', Pit Trap",
+			"coords": "406,882,476,952",
+			"alt": "Room #42, 50' x 50', Pit Trap",
+			"shape": "rect",
+			"href": "#room_42"
+		},
+		{
+			"Room": "Room #43",
+			"Description": "West Entry Stuck Simple Wooden Door\n East Entry Stuck Good Wooden Door\n Monster 1 x Wolf Skeleton\nTreasure: Jasper Puzzle Box set with Blue Star Sapphire and Rich Purple Corundum (500 gp); hoard total 500 gp",
+			"shape": "rect",
+			"href": "#room_43",
+			"alt": "Room #43, 30' x 50', 1 x Wolf Skeleton",
+			"title": "Room #43, 30' x 50', 1 x Wolf Skeleton",
+			"coords": "854,798,896,868"
+		},
+		{
+			"Room": "Room #44",
+			"Description": "West Entry Stuck Simple Wooden Door\n→ Leads to room #9\n South Entry Stuck Simple Wooden Door\n Monster 1 x Troglodyte Zombie\nTreasure: 100 gp; Arcane Scroll (See Invisibility); hoard total 100 gp",
+			"title": "Room #44, 70' x 50', 1 x Troglodyte Zombie",
+			"coords": "266,854,364,924",
+			"shape": "rect",
+			"href": "#room_44",
+			"alt": "Room #44, 70' x 50', 1 x Troglodyte Zombie"
+		},
+		{
+			"Room": "Room #45",
+			"Description": "South Entry Wooden Portcullis\n→ Leads to room #39, inhabited by 1 x Ghoul\n Monster 1 x Troglodyte Zombie\nTreasure: 50 gp; hoard total 50 gp",
+			"title": "Room #45, 50' x 50', 1 x Troglodyte Zombie",
+			"coords": "266,322,336,392",
+			"shape": "rect",
+			"href": "#room_45",
+			"alt": "Room #45, 50' x 50', 1 x Troglodyte Zombie"
+		},
+		{
+			"Room": "Room #46",
+			"Description": "North Entry Wooden Portcullis\n→ Leads to room #63\n East Entry #1 Stuck Simple Wooden Door\n East Entry #2 Unlocked Simple Wooden Door\n→ Leads to room #49, inhabited by 1 x Owlbear Skeleton\n ",
+			"title": "Room #46, 70' x 70', Empty",
+			"coords": "119,1078,161,1102,161,1151,119,1176,76,1151,76,1102",
+			"shape": "poly",
+			"href": "#room_46",
+			"alt": "Room #46, 70' x 70', Empty"
+		},
+		{
+			"Room": "Room #47",
+			"Description": "East Entry Wooden Portcullis\n Monster 1 x Owlbear Skeleton\nTreasure: 2000 cp; hoard total 20 gp\n Trap Poisoned Arrow Trap\n Hidden Treasure Hidden Locked Good Wooden Chest (good lock)\n20 pp; hoard total 200 gp",
+			"coords": "273,126,306,150,293,189,252,189,239,150",
+			"title": "Room #47, 50' x 50', 1 x Owlbear Skeleton, Poisoned Arrow Trap, Hidden Treasure",
+			"href": "#room_47",
+			"shape": "poly",
+			"alt": "Room #47, 50' x 50', 1 x Owlbear Skeleton, Poisoned Arrow Trap, Hidden Treasure"
+		},
+		{
+			"Room": "Room #48",
+			"Description": "East Entry Stuck Simple Wooden Door\n South Entry Stuck Strong Wooden Door\n→ Leads to room #115, inhabited by 1 x Ghoul\n Room Features A forge and anvil sit in the center of the room, and the walls are covered with sword cuts\n Monster 5 x Human Warrior Skeleton\nTreasure: 600 sp; Rhodochrosite (7 gp); Half-plate (600 gp); hoard total 667 gp",
+			"title": "Room #48, 30' x 30', 5 x Human Warrior Skeleton",
+			"coords": "238,714,280,756",
+			"alt": "Room #48, 30' x 30', 5 x Human Warrior Skeleton",
+			"shape": "rect",
+			"href": "#room_48"
+		},
+		{
+			"Room": "Room #49",
+			"Description": "West Entry Unlocked Simple Wooden Door\n→ Leads to room #46\n South Entry Unlocked Simple Wooden Door\n Monster 1 x Owlbear Skeleton\nTreasure: 1000 cp; hoard total 10 gp",
+			"shape": "rect",
+			"href": "#room_49",
+			"alt": "Room #49, 30' x 30', 1 x Owlbear Skeleton",
+			"title": "Room #49, 30' x 30', 1 x Owlbear Skeleton",
+			"coords": "182,1134,224,1176"
+		},
+		{
+			"Room": "Room #50",
+			"Description": "North Entry Archway\n East Entry Archway\n→ Leads to room #101, inhabited by 1 x Troglodyte Zombie\n Monster 1 x Ghoul\nTreasure: 400 sp; hoard total 40 gp",
+			"coords": "854,910,924,980",
+			"title": "Room #50, 50' x 50', 1 x Ghoul",
+			"href": "#room_50",
+			"shape": "rect",
+			"alt": "Room #50, 50' x 50', 1 x Ghoul"
+		},
+		{
+			"Room": "Room #51",
+			"Description": "North Entry Unlocked Simple Wooden Door\n West Entry Unlocked Strong Wooden Door\n→ Leads to room #24, inhabited by 1 x Troglodyte Zombie\n Monster 1 x Troglodyte Zombie\nTreasure: 1000 cp; hoard total 10 gp",
+			"title": "Room #51, 50' x 30', 1 x Troglodyte Zombie",
+			"coords": "154,686,224,728",
+			"alt": "Room #51, 50' x 30', 1 x Troglodyte Zombie",
+			"shape": "rect",
+			"href": "#room_51"
+		},
+		{
+			"Room": "Room #52",
+			"Description": "West Entry Stuck Good Wooden Door\n South Entry Stuck Stone Door\n→ Leads to room #93, inhabited by 1 x Wolf Skeleton\n Room Features Someone has scrawled \"They ate Sabel\" on the east wall, and the scent of smoke fills the west side of the room\n Monster 1 x Wolf Skeleton\nTreasure: 70 gp; hoard total 70 gp",
+			"href": "#room_52",
+			"shape": "rect",
+			"alt": "Room #52, 30' x 30', 1 x Wolf Skeleton",
+			"coords": "154,14,196,56",
+			"title": "Room #52, 30' x 30', 1 x Wolf Skeleton"
+		},
+		{
+			"Room": "Room #53",
+			"Description": "West Entry Wooden Portcullis\n South Entry Archway\n Room Features A wooden ladder rests against the south wall, and several pieces of broken glass are scattered throughout the room\n Monster 1 x Ghoul\nTreasure: 100 sp; Full Plate (1500 gp); hoard total 1510 gp",
+			"coords": "966,434,1008,476",
+			"title": "Room #53, 30' x 30', 1 x Ghoul",
+			"alt": "Room #53, 30' x 30', 1 x Ghoul",
+			"href": "#room_53",
+			"shape": "rect"
+		},
+		{
+			"Room": "Room #54",
+			"Description": "North Entry Stuck Simple Wooden Door\n East Entry Wooden Portcullis (magically reinforced)\n→ Leads to room #62, inhabited by 1 x Ghoul\n South Entry Wooden Portcullis\n Monster 5 x Human Commoner Zombie\nTreasure: 30 pp; hoard total 300 gp",
+			"alt": "Room #54, 70' x 30', 5 x Human Commoner Zombie",
+			"href": "#room_54",
+			"shape": "rect",
+			"coords": "658,1078,756,1120",
+			"title": "Room #54, 70' x 30', 5 x Human Commoner Zombie"
+		},
+		{
+			"Room": "Room #55",
+			"Description": "North Entry Archway\n South Entry Stuck Simple Wooden Door\n→ Leads to room #89, inhabited by 1 x Wight\n Room Features A faded and torn tapestry hangs from the west wall, and someone has scrawled an alien symbol on the east wall\n Monster 1 x Ghoul\nTreasure: 110 gp; hoard total 110 gp",
+			"alt": "Room #55, 50' x 50', 1 x Ghoul",
+			"href": "#room_55",
+			"shape": "poly",
+			"coords": "665,126,695,143,695,178,665,196,634,178,634,143",
+			"title": "Room #55, 50' x 50', 1 x Ghoul"
+		},
+		{
+			"Room": "Room #56",
+			"Description": "North Entry Stuck Stone Door\n→ Leads to room #41, inhabited by 2 x Kobold Zombie\n West Entry Archway\n→ Leads to room #33, inhabited by 1 x Ogre Zombie\n East Entry Unlocked Good Wooden Door\n South Entry Stuck Strong Wooden Door\n Room Features A wooden ladder rests against the east wall, and a bent chisel lies in the south-east corner of the room\n Monster 4 x Human Warrior Skeleton\nTreasure: None",
+			"alt": "Room #56, 30' x 30', 4 x Human Warrior Skeleton",
+			"href": "#room_56",
+			"shape": "rect",
+			"coords": "266,630,308,672",
+			"title": "Room #56, 30' x 30', 4 x Human Warrior Skeleton"
+		},
+		{
+			"Room": "Room #57",
+			"Description": "East Entry #1 Unlocked Good Wooden Door\n East Entry #2 Wooden Portcullis\n→ Leads to room #69, inhabited by 2 x Human Commoner Zombie\n South Entry Stuck Good Wooden Door\n Room Features A stream of oil flows down the west wall, and several shattered weapons are scattered throughout the room\n Monster 1 x Wolf Skeleton\nTreasure: 800 sp; Heavy Steel Shield (20 gp); hoard total 100 gp\n Trap Pit Trap\n Hidden Treasure Hidden Locked Iron Chest (superior lock)\n40 pp; hoard total 400 gp",
+			"alt": "Room #57, 30' x 50', 1 x Wolf Skeleton, Pit Trap, Hidden Treasure",
+			"href": "#room_57",
+			"shape": "rect",
+			"coords": "322,182,364,252",
+			"title": "Room #57, 30' x 50', 1 x Wolf Skeleton, Pit Trap, Hidden Treasure"
+		},
+		{
+			"Room": "Room #58",
+			"Description": "North Entry Unlocked Strong Wooden Door\n→ Leads to room #5\n West Entry Unlocked Good Wooden Door\n→ Leads to room #61, inhabited by 4 x Human Warrior Skeleton\n East Entry #1 Stuck Simple Wooden Door\n East Entry #2 Archway\n→ Leads to room #117, inhabited by 5 x Human Warrior Skeleton\n South Entry Unlocked Stone Door (slides down)\n ",
+			"alt": "Room #58, 70' x 70', Empty",
+			"shape": "poly",
+			"href": "#room_58",
+			"title": "Room #58, 70' x 70', Empty",
+			"coords": "735,658,777,682,777,731,735,756,692,731,692,682"
+		},
+		{
+			"Room": "Room #59",
+			"Description": "West Entry #1 Stuck Stone Door\n West Entry #2 Unlocked Simple Wooden Door\n East Entry Stuck Iron Door\n ",
+			"href": "#room_59",
+			"shape": "rect",
+			"alt": "Room #59, 30' x 30', Empty",
+			"coords": "798,14,840,56",
+			"title": "Room #59, 30' x 30', Empty"
+		},
+		{
+			"Room": "Room #60",
+			"Description": "North Entry Stuck Stone Door\n East Entry Unlocked Simple Wooden Door\n→ Leads to room #113, inhabited by 1 x Wolf Skeleton\n Monster 5 x Human Commoner Zombie\nTreasure: 120 gp; hoard total 120 gp",
+			"title": "Room #60, 30' x 30', 5 x Human Commoner Zombie",
+			"coords": "14,126,56,168",
+			"alt": "Room #60, 30' x 30', 5 x Human Commoner Zombie",
+			"shape": "rect",
+			"href": "#room_60"
+		},
+		{
+			"Room": "Room #61",
+			"Description": "North Entry Wooden Portcullis\n West Entry Wooden Portcullis\n East Entry Unlocked Good Wooden Door\n→ Leads to room #58\n South Entry Archway\n→ Leads to room #10, inhabited by 1 x Owlbear Skeleton\n Room Features A narrow shaft descends from the room into a natural cavern below, and a mural of vile acts covers the ceiling\n Monster 4 x Human Warrior Skeleton\nTreasure: 120 gp; hoard total 120 gp",
+			"href": "#room_61",
+			"shape": "poly",
+			"alt": "Room #61, 70' x 70', 4 x Human Warrior Skeleton",
+			"coords": "623,658,665,682,665,731,623,756,580,731,580,682",
+			"title": "Room #61, 70' x 70', 4 x Human Warrior Skeleton"
+		},
+		{
+			"Room": "Room #62",
+			"Description": "North Entry Archway\n→ Leads to room #111, inhabited by 1 x Wolf Skeleton\n West Entry Wooden Portcullis (magically reinforced)\n→ Leads to room #54, inhabited by 5 x Human Commoner Zombie\n East Entry #1 Unlocked Simple Wooden Door\n→ Leads to room #14, inhabited by 3 x Human Warrior Skeleton\n East Entry #2 Archway\n Monster 1 x Ghoul\nTreasure: None\n Hidden Treasure Hidden Locked Simple Wooden Chest (common lock)\n600 sp; Arcane Scroll (Rage); hoard total 60 gp",
+			"title": "Room #62, 30' x 50', 1 x Ghoul, Hidden Treasure",
+			"coords": "770,1078,812,1148",
+			"alt": "Room #62, 30' x 50', 1 x Ghoul, Hidden Treasure",
+			"shape": "rect",
+			"href": "#room_62"
+		},
+		{
+			"Room": "Room #63",
+			"Description": "North Entry #1 Unlocked Simple Wooden Door\n North Entry #2 Unlocked Simple Wooden Door\n South Entry Wooden Portcullis\n→ Leads to room #46\n ",
+			"href": "#room_63",
+			"shape": "rect",
+			"alt": "Room #63, 70' x 30', Empty",
+			"coords": "42,1022,140,1064",
+			"title": "Room #63, 70' x 30', Empty"
+		},
+		{
+			"Room": "Room #64",
+			"Description": "North Entry Wooden Portcullis\n East Entry Stuck Simple Wooden Door\n South Entry Stuck Strong Wooden Door\n Hidden Treasure Hidden Trapped and Locked Iron Chest (good lock)\nBasic Arrow Trap\n140 gp; hoard total 140 gp",
+			"coords": "910,714,952,756",
+			"title": "Room #64, 30' x 30', Hidden Treasure",
+			"alt": "Room #64, 30' x 30', Hidden Treasure",
+			"href": "#room_64",
+			"shape": "rect"
+		},
+		{
+			"Room": "Room #65",
+			"Description": "North Entry Trapped Iron Portcullis\nⓉ Spiked Pit Trap\n→ Leads to room #71\n South Entry Stuck Simple Wooden Door\n Room Features Part of the ceiling has collapsed into the room, and several corpses are impaled upon iron spikes on the ceiling\n Monster 1 x Ghoul\nTreasure: 500 sp; hoard total 50 gp",
+			"alt": "Room #65, 70' x 30', 1 x Ghoul",
+			"href": "#room_65",
+			"shape": "rect",
+			"coords": "686,910,784,952",
+			"title": "Room #65, 70' x 30', 1 x Ghoul"
+		},
+		{
+			"Room": "Room #66",
+			"Description": "North Entry Wooden Portcullis\n East Entry #1 Archway\n East Entry #2 Archway\n→ Leads to room #121\n South Entry #1 Iron Portcullis\n South Entry #2 Iron Portcullis\n→ Leads to room #21\n ",
+			"alt": "Room #66, 50' x 70', Empty",
+			"href": "#room_66",
+			"shape": "rect",
+			"coords": "42,238,112,336",
+			"title": "Room #66, 50' x 70', Empty"
+		},
+		{
+			"Room": "Room #67",
+			"Description": "West Entry #1 Stuck Good Wooden Door\n West Entry #2 Stuck Strong Wooden Door\n Room Features Someone has scrawled a large X on the east wall, and a clanking sound fills the room",
+			"alt": "Room #67, 30' x 30', Empty",
+			"href": "#room_67",
+			"shape": "rect",
+			"coords": "434,1050,476,1092",
+			"title": "Room #67, 30' x 30', Empty"
+		},
+		{
+			"Room": "Room #68",
+			"Description": "North Entry Stuck Strong Wooden Door\n East Entry Stuck Good Wooden Door\n Room Features A narrow ledge runs along the south and east walls, and someone has scrawled \"two, two, five, nine, seven, seven\" in draconic script on the west wall",
+			"alt": "Room #68, 30' x 30', Empty",
+			"href": "#room_68",
+			"shape": "rect",
+			"coords": "686,1162,728,1204",
+			"title": "Room #68, 30' x 30', Empty"
+		},
+		{
+			"Room": "Room #69",
+			"Description": "North Entry Unlocked Strong Wooden Door\n West Entry Wooden Portcullis\n→ Leads to room #57, inhabited by 1 x Wolf Skeleton\n East Entry Stuck Good Wooden Door\n→ Leads to room #125, inhabited by 1 x Wolf Skeleton\n Monster 2 x Human Commoner Zombie\nTreasure: 160 gp; hoard total 160 gp",
+			"alt": "Room #69, 50' x 50', 2 x Human Commoner Zombie",
+			"shape": "rect",
+			"href": "#room_69",
+			"title": "Room #69, 50' x 50', 2 x Human Commoner Zombie",
+			"coords": "378,210,448,280"
+		},
+		{
+			"Room": "Room #70",
+			"Description": "North Entry Stuck Stone Door\n→ Leads to room #10, inhabited by 1 x Owlbear Skeleton\n South Entry Stuck Good Wooden Door\n Room Features A sloped pit lined with iron spikes lies in the center of the room, and someone has scrawled \"Lightning comes before thunder\" on the north wall\n Monster 2 x Human Warrior Skeleton\nTreasure: 500 sp; hoard total 50 gp",
+			"shape": "rect",
+			"href": "#room_70",
+			"alt": "Room #70, 30' x 30', 2 x Human Warrior Skeleton",
+			"title": "Room #70, 30' x 30', 2 x Human Warrior Skeleton",
+			"coords": "602,854,644,896"
+		},
+		{
+			"Room": "Room #71",
+			"Description": "West Entry Stuck Simple Wooden Door\n East Entry Archway\n South Entry Trapped Iron Portcullis\nⓉ Spiked Pit Trap\n→ Leads to room #65, inhabited by 1 x Ghoul\n Room Features Someone has scrawled \"I've forgotten my name\" on the north wall, and the ceiling is covered with bloodstains",
+			"title": "Room #71, 70' x 30', Empty",
+			"coords": "686,854,784,896",
+			"shape": "rect",
+			"href": "#room_71",
+			"alt": "Room #71, 70' x 30', Empty"
+		},
+		{
+			"Room": "Room #72",
+			"Description": "East Entry Stuck Simple Wooden Door\n South Entry Trapped Iron Portcullis\nⓉ Poison Needle Trap\n Room Features The south and west walls have been engraved with geometric patterns, and a sundered club lies in the south-east corner of the room",
+			"title": "Room #72, 70' x 50', Empty",
+			"coords": "602,14,700,84",
+			"shape": "rect",
+			"href": "#room_72",
+			"alt": "Room #72, 70' x 50', Empty"
+		},
+		{
+			"Room": "Room #73",
+			"Description": "North Entry Wooden Portcullis\n South Entry Archway\n ",
+			"coords": "98,546,140,588",
+			"title": "Room #73, 30' x 30', Empty",
+			"href": "#room_73",
+			"shape": "rect",
+			"alt": "Room #73, 30' x 30', Empty"
+		},
+		{
+			"Room": "Room #74",
+			"Description": "North Entry Stuck Simple Wooden Door\n West Entry Archway\n→ Leads to room #100, inhabited by 1 x Troglodyte Zombie\n East Entry Stuck Iron Door (slides down)\n Room Features A mural of ancient mythology covers the ceiling, and someone has scrawled a drawing of a castle on the east wall",
+			"coords": "630,966,672,1008",
+			"title": "Room #74, 30' x 30', Empty",
+			"alt": "Room #74, 30' x 30', Empty",
+			"href": "#room_74",
+			"shape": "rect"
+		},
+		{
+			"Room": "Room #75",
+			"Description": "East Entry #1 Stuck Strong Wooden Door\n East Entry #2 Unlocked Simple Wooden Door\n South Entry Archway\n ",
+			"alt": "Room #75, 70' x 50', Empty",
+			"shape": "rect",
+			"href": "#room_75",
+			"title": "Room #75, 70' x 50', Empty",
+			"coords": "546,1022,644,1092"
+		},
+		{
+			"Room": "Room #76",
+			"Description": "West Entry Wooden Portcullis\n South Entry Archway\n Room Features A chute falls into the room from above, and someone has scrawled \"Svegi was here\" in dwarvish runes on the south wall\n Monster 1 x Ghoul\nTreasure: Dagger (2 gp); hoard total 2 gp",
+			"shape": "rect",
+			"href": "#room_76",
+			"alt": "Room #76, 50' x 30', 1 x Ghoul",
+			"title": "Room #76, 50' x 30', 1 x Ghoul",
+			"coords": "238,1218,308,1260"
+		},
+		{
+			"Room": "Room #77",
+			"Description": "North Entry #1 Unlocked Strong Wooden Door\n North Entry #2 Stuck Good Wooden Door\n→ Leads to room #101, inhabited by 1 x Troglodyte Zombie\n South Entry Archway\n→ Leads to room #27, inhabited by 1 x Wolf Skeleton\n Room Features Someone has scrawled \"left, left, right, straight\" in dwarvish runes on the north wall, and several pieces of spoiled meat are scattered throughout the room\n Monster 1 x Wolf Skeleton\nTreasure: 100 sp; Heavy Steel Shield (20 gp); hoard total 30 gp",
+			"coords": "882,1022,980,1120",
+			"title": "Room #77, 70' x 70', 1 x Wolf Skeleton",
+			"href": "#room_77",
+			"shape": "rect",
+			"alt": "Room #77, 70' x 70', 1 x Wolf Skeleton"
+		},
+		{
+			"Room": "Room #78",
+			"Description": "North Entry Stuck Strong Wooden Door\n West Entry Stuck Good Wooden Door\n→ Leads to room #118\n South Entry Stuck Iron Door\n Room Features A ladder ascends to a balcony hanging from the north wall, and a tile mosaic of geometric patterns covers the floor",
+			"coords": "966,42,1008,84",
+			"title": "Room #78, 30' x 30', Empty",
+			"alt": "Room #78, 30' x 30', Empty",
+			"href": "#room_78",
+			"shape": "rect"
+		},
+		{
+			"Room": "Room #79",
+			"Description": "West Entry Wooden Portcullis\n Room Features A mural of ghoulish carnage covers the ceiling, and someone has scrawled \"Look to the ceiling\" on the east wall\n Monster 1 x Wolf Skeleton\nTreasure: 600 sp; hoard total 60 gp",
+			"alt": "Room #79, 30' x 30', 1 x Wolf Skeleton",
+			"shape": "rect",
+			"href": "#room_79",
+			"title": "Room #79, 30' x 30', 1 x Wolf Skeleton",
+			"coords": "42,1218,84,1260"
+		},
+		{
+			"Room": "Room #80",
+			"Description": "North Entry Archway\n South Entry Stuck Good Wooden Door\n→ Leads to room #7\n ",
+			"href": "#room_80",
+			"shape": "rect",
+			"alt": "Room #80, 30' x 30', Empty",
+			"coords": "938,490,980,532",
+			"title": "Room #80, 30' x 30', Empty"
+		},
+		{
+			"Room": "Room #81",
+			"Description": "North Entry Archway\n South Entry Stuck Strong Wooden Door\n Monster 1 x Troglodyte Zombie\nTreasure: 500 sp; hoard total 50 gp",
+			"coords": "14,882,56,980",
+			"title": "Room #81, 30' x 70', 1 x Troglodyte Zombie",
+			"alt": "Room #81, 30' x 70', 1 x Troglodyte Zombie",
+			"href": "#room_81",
+			"shape": "rect"
+		},
+		{
+			"Room": "Room #82",
+			"Description": "West Entry #1 Stuck Good Wooden Door\n West Entry #2 Wooden Portcullis (magically reinforced)\n East Entry Stuck Strong Wooden Door\n ",
+			"alt": "Room #82, 30' x 30', Empty",
+			"href": "#room_82",
+			"shape": "rect",
+			"coords": "518,1246,560,1288",
+			"title": "Room #82, 30' x 30', Empty"
+		},
+		{
+			"Room": "Room #83",
+			"Description": "North Entry Unlocked Strong Wooden Door\n East Entry Archway\n→ Leads to room #89, inhabited by 1 x Wight\n Monster 5 x Human Warrior Skeleton\nTreasure: 140 gp; Small Steel Mirror (10 gp); hoard total 150 gp\n Trap Tripping Chain\n Hidden Treasure Hidden Unlocked Iron Chest\n90 gp; hoard total 90 gp",
+			"alt": "Room #83, 30' x 70', 5 x Human Warrior Skeleton, Tripping Chain, Hidden Treasure",
+			"href": "#room_83",
+			"shape": "rect",
+			"coords": "602,238,644,336",
+			"title": "Room #83, 30' x 70', 5 x Human Warrior Skeleton, Tripping Chain, Hidden Treasure"
+		},
+		{
+			"Room": "Room #84",
+			"Description": "East Entry Stuck Simple Wooden Door\n South Entry Unlocked Good Wooden Door\n→ Leads to room #101, inhabited by 1 x Troglodyte Zombie\n Room Features The floor is covered in square tiles, alternating white and black, and someone has scrawled \"Save yourself, kill the others\" in blood on the north wall",
+			"alt": "Room #84, 30' x 30', Empty",
+			"shape": "rect",
+			"href": "#room_84",
+			"title": "Room #84, 30' x 30', Empty",
+			"coords": "938,882,980,924"
+		},
+		{
+			"Room": "Room #85",
+			"Description": "West Entry Archway\n East Entry Stuck Simple Wooden Door\n→ Leads to room #93, inhabited by 1 x Wolf Skeleton\n Room Features The floor is covered in square tiles, alternating white and black, and someone has scrawled \"George was here\" on the east wall\n Trap Pit Trap\n Hidden Treasure Invisible Locked Strong Wooden Chest (good lock)\n20 gp; hoard total 20 gp",
+			"shape": "poly",
+			"href": "#room_85",
+			"alt": "Room #85, 50' x 50', Pit Trap, Hidden Treasure",
+			"title": "Room #85, 50' x 50', Pit Trap, Hidden Treasure",
+			"coords": "105,42,140,77,105,112,70,77"
+		},
+		{
+			"Room": "Room #86",
+			"Description": "West Entry Stuck Strong Wooden Door\n→ Leads to room #113, inhabited by 1 x Wolf Skeleton\n East Entry Archway\n ",
+			"title": "Room #86, 50' x 50', Empty",
+			"coords": "161,154,196,189,161,224,126,189",
+			"shape": "poly",
+			"href": "#room_86",
+			"alt": "Room #86, 50' x 50', Empty"
+		},
+		{
+			"Room": "Room #87",
+			"Description": "West Entry Wooden Portcullis (magically reinforced)\n Room Features A narrow shaft falls into the room from above, and a pile of rotten leather lies in the north-east corner of the room",
+			"coords": "770,1162,812,1204",
+			"title": "Room #87, 30' x 30', Empty",
+			"href": "#room_87",
+			"shape": "rect",
+			"alt": "Room #87, 30' x 30', Empty"
+		},
+		{
+			"Room": "Room #88",
+			"Description": "West Entry Stuck Stone Door\n East Entry #1 Archway\n East Entry #2 Iron Portcullis\n→ Leads to room #112\n ",
+			"coords": "854,238,896,280",
+			"title": "Room #88, 30' x 30', Empty",
+			"alt": "Room #88, 30' x 30', Empty",
+			"href": "#room_88",
+			"shape": "rect"
+		},
+		{
+			"Room": "Room #89",
+			"Description": "North Entry #1 Stuck Simple Wooden Door\n→ Leads to room #55, inhabited by 1 x Ghoul\n North Entry #2 Stuck Iron Door\n West Entry Archway\n→ Leads to room #83, inhabited by 5 x Human Warrior Skeleton\n East Entry Stuck Good Wooden Door\n→ Leads to room #32, inhabited by 1 x Wolf Skeleton\n Monster 1 x Wight\nTreasure: 100 sp; hoard total 10 gp",
+			"alt": "Room #89, 70' x 70', 1 x Wight",
+			"shape": "rect",
+			"href": "#room_89",
+			"title": "Room #89, 70' x 70', 1 x Wight",
+			"coords": "658,210,756,308"
+		},
+		{
+			"Room": "Room #90",
+			"Description": "South Entry Unlocked Simple Wooden Door\n Room Features A tapestry of legendary monsters hangs from the west wall, and a fountain of water sits against the north wall",
+			"shape": "rect",
+			"href": "#room_90",
+			"alt": "Room #90, 50' x 50', Empty",
+			"title": "Room #90, 50' x 50', Empty",
+			"coords": "182,1022,252,1092"
+		},
+		{
+			"Room": "Room #91",
+			"Description": "North Entry Archway\n→ Leads to room #126, inhabited by 1 x Owlbear Skeleton\n South Entry Unlocked Simple Wooden Door\n Monster 3 x Kobold Zombie\nTreasure: 2000 cp; hoard total 20 gp\n Hidden Treasure Hidden Locked Iron Chest (common lock)\n6000 cp; hoard total 60 gp",
+			"coords": "266,1022,336,1092",
+			"title": "Room #91, 50' x 50', 3 x Kobold Zombie, Hidden Treasure",
+			"href": "#room_91",
+			"shape": "rect",
+			"alt": "Room #91, 50' x 50', 3 x Kobold Zombie, Hidden Treasure"
+		},
+		{
+			"Room": "Room #92",
+			"Description": "South Entry Stuck Simple Wooden Door\n→ Leads to room #110\n ",
+			"coords": "462,42,532,84",
+			"title": "Room #92, 50' x 30', Empty",
+			"alt": "Room #92, 50' x 30', Empty",
+			"href": "#room_92",
+			"shape": "rect"
+		},
+		{
+			"Room": "Room #93",
+			"Description": "North Entry Stuck Stone Door\n→ Leads to room #52, inhabited by 1 x Wolf Skeleton\n West Entry Stuck Simple Wooden Door\n→ Leads to room #85\n East Entry Unlocked Simple Wooden Door\n Monster 1 x Wolf Skeleton\nTreasure: 4000 cp; Composite Longbow (100 gp); hoard total 140 gp",
+			"alt": "Room #93, 50' x 50', 1 x Wolf Skeleton",
+			"href": "#room_93",
+			"shape": "rect",
+			"coords": "154,70,224,140",
+			"title": "Room #93, 50' x 50', 1 x Wolf Skeleton"
+		},
+		{
+			"Room": "Room #94",
+			"Description": "North Entry Unlocked Simple Wooden Door\n→ Leads to room #7\n South Entry Stuck Strong Wooden Door\n Room Features A stone ramp ascends towards the north wall, and a tile mosaic of an air god covers the floor\n Monster 1 x Bugbear Zombie\nTreasure: 500 sp; hoard total 50 gp",
+			"alt": "Room #94, 30' x 30', 1 x Bugbear Zombie",
+			"href": "#room_94",
+			"shape": "rect",
+			"coords": "966,658,1008,700",
+			"title": "Room #94, 30' x 30', 1 x Bugbear Zombie"
+		},
+		{
+			"Room": "Room #95",
+			"Description": "West Entry #1 Stuck Strong Wooden Door\n West Entry #2 Archway\n Room Features Someone has scrawled \"It is awake\" on the east wall, and a swarm of crawling insects covers the floor",
+			"alt": "Room #95, 30' x 30', Empty",
+			"href": "#room_95",
+			"shape": "rect",
+			"coords": "266,42,308,84",
+			"title": "Room #95, 30' x 30', Empty"
+		},
+		{
+			"Room": "Room #96",
+			"Description": "East Entry #1 Unlocked Strong Wooden Door\n East Entry #2 Archway\n South Entry Wooden Portcullis\n Room Features A rope ascends to a wooden platform in the west side of the room, and someone has scrawled \"Sharpen thy sword and ready thy shield\" in blood on the east wall\n Monster 3 x Human Warrior Skeleton\nTreasure: 70 gp; Arcane Scroll (Protection from Arrows); hoard total 70 gp",
+			"alt": "Room #96, 30' x 50', 3 x Human Warrior Skeleton",
+			"href": "#room_96",
+			"shape": "rect",
+			"coords": "14,770,56,840",
+			"title": "Room #96, 30' x 50', 3 x Human Warrior Skeleton"
+		},
+		{
+			"Room": "Room #97",
+			"Description": "North Entry Trapped Wooden Portcullis\nⓉ Well-Camouflaged Pit Trap\n East Entry Stuck Simple Wooden Door\n→ Leads to room #10, inhabited by 1 x Owlbear Skeleton\n South Entry Stuck Good Wooden Door\n ",
+			"alt": "Room #97, 50' x 50', Empty",
+			"shape": "rect",
+			"href": "#room_97",
+			"title": "Room #97, 50' x 50', Empty",
+			"coords": "490,798,560,868"
+		},
+		{
+			"Room": "Room #98",
+			"Description": "West Entry Stuck Strong Wooden Door\n East Entry Unlocked Iron Door\n→ Leads to room #1, inhabited by 1 x Troglodyte Zombie\n South Entry Stuck Simple Wooden Door\n Room Features Someone has scrawled \"I'd rather be at the Wanton Trickster\" in dwarvish runes on the north wall, and a pile of broken glass lies in the north side of the room\n Monster 1 x Troglodyte Zombie\nTreasure: 160 gp; hoard total 160 gp",
+			"href": "#room_98",
+			"shape": "rect",
+			"alt": "Room #98, 30' x 30', 1 x Troglodyte Zombie",
+			"coords": "602,378,644,420",
+			"title": "Room #98, 30' x 30', 1 x Troglodyte Zombie"
+		},
+		{
+			"Room": "Room #99",
+			"Description": "North Entry Stuck Iron Door\n→ Leads to room #42\n South Entry #1 Stuck Strong Wooden Door\n South Entry #2 Stuck Good Wooden Door\n Room Features A shallow pit lies in the center of the room, and a toppled statue lies in the south-west corner of the room",
+			"coords": "378,966,448,1036",
+			"title": "Room #99, 50' x 50', Empty",
+			"alt": "Room #99, 50' x 50', Empty",
+			"href": "#room_99",
+			"shape": "rect"
+		},
+		{
+			"Room": "Room #100",
+			"Description": "West Entry #1 Wooden Portcullis\n West Entry #2 Stuck Simple Wooden Door\n East Entry Archway\n→ Leads to room #74\n Room Features A faded and torn tapestry hangs from the north wall, and a corroded holy symbol lies in the south-west corner of the room\n Monster 1 x Troglodyte Zombie\nTreasure: 20 gp; Jet (60 gp); hoard total 80 gp",
+			"alt": "Room #100, 30' x 30', 1 x Troglodyte Zombie",
+			"href": "#room_100",
+			"shape": "rect",
+			"coords": "574,966,616,1008",
+			"title": "Room #100, 30' x 30', 1 x Troglodyte Zombie"
+		},
+		{
+			"Room": "Room #101",
+			"Description": "North Entry Unlocked Good Wooden Door\n→ Leads to room #84\n West Entry Archway\n→ Leads to room #50, inhabited by 1 x Ghoul\n East Entry Unlocked Good Wooden Door\n South Entry Stuck Good Wooden Door\n→ Leads to room #77, inhabited by 1 x Wolf Skeleton\n Monster 1 x Troglodyte Zombie\nTreasure: 90 gp; Trident (15 gp); hoard total 105 gp",
+			"alt": "Room #101, 30' x 50', 1 x Troglodyte Zombie",
+			"href": "#room_101",
+			"shape": "rect",
+			"coords": "938,938,980,1008",
+			"title": "Room #101, 30' x 50', 1 x Troglodyte Zombie"
+		},
+		{
+			"Room": "Room #102",
+			"Description": "West Entry Stuck Simple Wooden Door\n→ Leads to room #111, inhabited by 1 x Wolf Skeleton\n East Entry Stuck Stone Door\n Monster 3 x Kobold Zombie\nTreasure: 500 sp; hoard total 50 gp",
+			"alt": "Room #102, 30' x 30', 3 x Kobold Zombie",
+			"href": "#room_102",
+			"shape": "rect",
+			"coords": "826,994,868,1036",
+			"title": "Room #102, 30' x 30', 3 x Kobold Zombie"
+		},
+		{
+			"Room": "Room #103",
+			"Description": "West Entry Archway\n→ Leads to room #41, inhabited by 2 x Kobold Zombie\n East Entry Unlocked Simple Wooden Door (slides up)\n ",
+			"alt": "Room #103, 30' x 50', Empty",
+			"href": "#room_103",
+			"shape": "rect",
+			"coords": "350,546,392,616",
+			"title": "Room #103, 30' x 50', Empty"
+		},
+		{
+			"Room": "Room #104",
+			"Description": "North Entry Wooden Portcullis\n South Entry Stuck Strong Wooden Door (slides up)\n Room Features A stone dais sits in the north-east corner of the room, and a stone dais and throne sits in the east side of the room",
+			"alt": "Room #104, 30' x 30', Empty",
+			"shape": "rect",
+			"href": "#room_104",
+			"title": "Room #104, 30' x 30', Empty",
+			"coords": "210,266,252,308"
+		},
+		{
+			"Room": "Room #105",
+			"Description": "East Entry Archway\n South Entry Stuck Good Wooden Door\n Room Features Someone has scrawled a drawing of a sword on the north wall, and a crushed helm lies in the east side of the room",
+			"href": "#room_105",
+			"shape": "rect",
+			"alt": "Room #105, 50' x 50', Empty",
+			"coords": "154,350,224,420",
+			"title": "Room #105, 50' x 50', Empty"
+		},
+		{
+			"Room": "Room #106",
+			"Description": "West Entry Stuck Simple Wooden Door\n East Entry Stuck Good Wooden Door\n→ Leads to room #127\n Room Features A wooden platform hangs over a deep pit in the south-west corner of the room, and a hole has been blasted into the west wall",
+			"title": "Room #106, 30' x 30', Empty",
+			"coords": "630,1218,672,1260",
+			"alt": "Room #106, 30' x 30', Empty",
+			"shape": "rect",
+			"href": "#room_106"
+		},
+		{
+			"Room": "Room #107",
+			"Description": "North Entry Unlocked Simple Wooden Door (slides up)\n East Entry Unlocked Simple Wooden Door\n ",
+			"shape": "rect",
+			"href": "#room_107",
+			"alt": "Room #107, 30' x 30', Empty",
+			"title": "Room #107, 30' x 30', Empty",
+			"coords": "154,574,196,616"
+		},
+		{
+			"Room": "Room #108",
+			"Description": "North Entry Unlocked Strong Wooden Door\n West Entry Archway\n South Entry Archway\n→ Leads to room #24, inhabited by 1 x Troglodyte Zombie\n Room Features Flickering wisps of flame fill the west side of the room, and several  flasks are scattered throughout the room\n Monster 3 x Human Warrior Skeleton\nTreasure: 4000 cp; Banded Mail (250 gp); hoard total 290 gp",
+			"title": "Room #108, 50' x 50', 3 x Human Warrior Skeleton",
+			"coords": "14,574,84,644",
+			"shape": "rect",
+			"href": "#room_108",
+			"alt": "Room #108, 50' x 50', 3 x Human Warrior Skeleton"
+		},
+		{
+			"Room": "Room #109",
+			"Description": "North Entry Archway\n Monster 1 x Wolf Skeleton\nTreasure: 3000 cp; hoard total 30 gp\n Trap Poison Dart Trap\n Hidden Treasure Hidden Locked Iron Chest (common lock)\n60 gp; Bullseye Lantern (12 gp); hoard total 72 gp",
+			"coords": "490,490,560,560",
+			"title": "Room #109, 50' x 50', 1 x Wolf Skeleton, Poison Dart Trap, Hidden Treasure",
+			"href": "#room_109",
+			"shape": "rect",
+			"alt": "Room #109, 50' x 50', 1 x Wolf Skeleton, Poison Dart Trap, Hidden Treasure"
+		},
+		{
+			"Room": "Room #110",
+			"Description": "North Entry Stuck Simple Wooden Door\n→ Leads to room #92\n South Entry Wooden Portcullis\n ",
+			"title": "Room #110, 30' x 30', Empty",
+			"coords": "490,98,532,140",
+			"alt": "Room #110, 30' x 30', Empty",
+			"shape": "rect",
+			"href": "#room_110"
+		},
+		{
+			"Room": "Room #111",
+			"Description": "West Entry #1 Archway\n West Entry #2 Stuck Iron Door\n East Entry Stuck Simple Wooden Door\n→ Leads to room #102, inhabited by 3 x Kobold Zombie\n South Entry Archway\n→ Leads to room #62, inhabited by 1 x Ghoul\n Monster 1 x Wolf Skeleton\nTreasure: 100 gp; hoard total 100 gp\n Trap Burning Hands Trap",
+			"shape": "rect",
+			"href": "#room_111",
+			"alt": "Room #111, 70' x 50', 1 x Wolf Skeleton, Burning Hands Trap",
+			"title": "Room #111, 70' x 50', 1 x Wolf Skeleton, Burning Hands Trap",
+			"coords": "714,994,812,1064"
+		},
+		{
+			"Room": "Room #112",
+			"Description": "North Entry #1 Stuck Stone Door\n North Entry #2 Stuck Strong Wooden Door\n West Entry Iron Portcullis\n→ Leads to room #88\n South Entry Trapped Iron Portcullis\nⓉ Portcullis Trap\n→ Leads to room #3, inhabited by 1 x Wight\n Hidden Treasure Hidden Unlocked Good Wooden Chest\n1000 cp; hoard total 10 gp",
+			"title": "Room #112, 70' x 30', Hidden Treasure",
+			"coords": "910,266,1008,308",
+			"shape": "rect",
+			"href": "#room_112",
+			"alt": "Room #112, 70' x 30', Hidden Treasure"
+		},
+		{
+			"Room": "Room #113",
+			"Description": "West Entry Unlocked Simple Wooden Door\n→ Leads to room #60, inhabited by 5 x Human Commoner Zombie\n East Entry Stuck Strong Wooden Door\n→ Leads to room #86\n Room Features The floor is covered in square tiles, alternating white and black, and a ruined chain shirt lies in the south side of the room\n Monster 1 x Wolf Skeleton\nTreasure: None",
+			"title": "Room #113, 30' x 30', 1 x Wolf Skeleton",
+			"coords": "70,154,112,196",
+			"shape": "rect",
+			"href": "#room_113",
+			"alt": "Room #113, 30' x 30', 1 x Wolf Skeleton"
+		},
+		{
+			"Room": "Room #114",
+			"Description": "West Entry Archway\n→ Leads to room #26, inhabited by 1 x Ghoul\n East Entry Unlocked Strong Wooden Door\n→ Leads to room #22, inhabited by 2 x Human Warrior Skeleton\n South Entry Trapped Wooden Portcullis\nⓉ Javelin Trap\n→ Leads to room #37, inhabited by 3 x Human Warrior Skeleton\n Room Features A magical altar in the west side of the room summons an air elemental to serve whomever sacrifices a magical item upon it (but only once), and ghostly music can be faintly heard near the south wall",
+			"coords": "378,658,420,756",
+			"title": "Room #114, 30' x 70', Empty",
+			"href": "#room_114",
+			"shape": "rect",
+			"alt": "Room #114, 30' x 70', Empty"
+		},
+		{
+			"Room": "Room #115",
+			"Description": "North Entry #1 Stuck Strong Wooden Door\n→ Leads to room #48, inhabited by 5 x Human Warrior Skeleton\n North Entry #2 Unlocked Simple Wooden Door\n→ Leads to room #26, inhabited by 1 x Ghoul\n South Entry Unlocked Good Wooden Door\n→ Leads to room #9\n Room Features Someone has scrawled a diagram of a mechanical trap on the south wall, and a bent chisel lies in the east side of the room\n Monster 1 x Ghoul\nTreasure: Lance (10 gp); hoard total 10 gp",
+			"title": "Room #115, 70' x 30', 1 x Ghoul",
+			"coords": "238,770,336,812",
+			"alt": "Room #115, 70' x 30', 1 x Ghoul",
+			"shape": "rect",
+			"href": "#room_115"
+		},
+		{
+			"Room": "Room #116",
+			"Description": "East Entry Archway\n→ Leads to room #34, inhabited by 4 x Human Warrior Skeleton\n Monster 1 x Troglodyte Zombie\nTreasure: 140 gp; hoard total 140 gp",
+			"href": "#room_116",
+			"shape": "rect",
+			"alt": "Room #116, 30' x 30', 1 x Troglodyte Zombie",
+			"coords": "714,98,756,140",
+			"title": "Room #116, 30' x 30', 1 x Troglodyte Zombie"
+		},
+		{
+			"Room": "Room #117",
+			"Description": "West Entry Archway\n→ Leads to room #58\n East Entry Stuck Good Wooden Door\n South Entry Archway\n Room Features Skeletons hang from chains and manacles against the east and west walls, and several rotten apples are scattered throughout the room\n Monster 5 x Human Warrior Skeleton\nTreasure: 90 gp; Buckler (15 gp); hoard total 105 gp",
+			"coords": "833,714,868,749,833,784,798,749",
+			"title": "Room #117, 50' x 50', 5 x Human Warrior Skeleton",
+			"alt": "Room #117, 50' x 50', 5 x Human Warrior Skeleton",
+			"href": "#room_117",
+			"shape": "poly"
+		},
+		{
+			"Room": "Room #118",
+			"Description": "East Entry Stuck Good Wooden Door\n→ Leads to room #78\n South Entry Stuck Simple Wooden Door\n→ Leads to room #19\n Hidden Treasure Invisible Locked Iron Chest (superior lock)\n1000 cp; hoard total 10 gp",
+			"alt": "Room #118, 50' x 50', Hidden Treasure",
+			"href": "#room_118",
+			"shape": "poly",
+			"coords": "917,42,947,59,947,94,917,112,886,94,886,59",
+			"title": "Room #118, 50' x 50', Hidden Treasure"
+		},
+		{
+			"Room": "Room #119",
+			"Description": "West Entry Unlocked Strong Wooden Door (slides up)\n East Entry Stuck Strong Wooden Door\n→ Leads to room #5\n ",
+			"alt": "Room #119, 50' x 30', Empty",
+			"href": "#room_119",
+			"shape": "rect",
+			"coords": "574,574,644,616",
+			"title": "Room #119, 50' x 30', Empty"
+		},
+		{
+			"Room": "Room #120",
+			"Description": "North Entry Unlocked Strong Wooden Door\n→ Leads to room #36, inhabited by 4 x Human Warrior Skeleton\n East Entry Stuck Simple Wooden Door\n South Entry Stuck Iron Door\n→ Leads to room #40, inhabited by 3 x Human Warrior Skeleton\n ",
+			"alt": "Room #120, 70' x 30', Empty",
+			"shape": "rect",
+			"href": "#room_120",
+			"title": "Room #120, 70' x 30', Empty",
+			"coords": "70,854,168,896"
+		},
+		{
+			"Room": "Room #121",
+			"Description": "West Entry Archway\n→ Leads to room #66\n South Entry #1 Stuck Simple Wooden Door\n South Entry #2 Archway\n Room Features Numerous pillars line the east wall, and a rusted breastplate lies in the north-west corner of the room",
+			"shape": "rect",
+			"href": "#room_121",
+			"alt": "Room #121, 30' x 30', Empty",
+			"title": "Room #121, 30' x 30', Empty",
+			"coords": "126,266,168,308"
+		},
+		{
+			"Room": "Room #122",
+			"Description": "North Entry Unlocked Strong Wooden Door\n→ Leads to room #27, inhabited by 1 x Wolf Skeleton\n West Entry Unlocked Simple Wooden Door\n East Entry Stuck Simple Wooden Door\n Monster 2 x Human Warrior Skeleton\nTreasure: 100 gp; hoard total 100 gp",
+			"coords": "882,1246,924,1288",
+			"title": "Room #122, 30' x 30', 2 x Human Warrior Skeleton",
+			"href": "#room_122",
+			"shape": "rect",
+			"alt": "Room #122, 30' x 30', 2 x Human Warrior Skeleton"
+		},
+		{
+			"Room": "Room #123",
+			"Description": "East Entry Wooden Portcullis\n South Entry Archway\n→ Leads to room #41, inhabited by 2 x Kobold Zombie\n Room Features A circle of tall stones stands in the east side of the room, and someone has scrawled \"Ran out of swords\" in blood on the east wall\n Monster 1 x Ghast\nTreasure: 110 gp; hoard total 110 gp",
+			"title": "Room #123, 50' x 30', 1 x Ghast",
+			"coords": "294,462,364,504",
+			"alt": "Room #123, 50' x 30', 1 x Ghast",
+			"shape": "rect",
+			"href": "#room_123"
+		},
+		{
+			"Room": "Room #124",
+			"Description": "North Entry Unlocked Simple Wooden Door\n East Entry Stuck Good Wooden Door\n→ Leads to room #30, inhabited by 1 x Wolf Skeleton\n South Entry Stuck Simple Wooden Door (slides down)\n Monster 1 x Ghoul\nTreasure: 80 gp; hoard total 80 gp",
+			"shape": "rect",
+			"href": "#room_124",
+			"alt": "Room #124, 50' x 50', 1 x Ghoul",
+			"title": "Room #124, 50' x 50', 1 x Ghoul",
+			"coords": "14,462,84,532"
+		},
+		{
+			"Room": "Room #125",
+			"Description": "North Entry Stuck Iron Door\n West Entry Stuck Good Wooden Door\n→ Leads to room #69, inhabited by 2 x Human Commoner Zombie\n East Entry Archway\n Monster 1 x Wolf Skeleton\nTreasure: None",
+			"title": "Room #125, 30' x 30', 1 x Wolf Skeleton",
+			"coords": "462,266,504,308",
+			"shape": "rect",
+			"href": "#room_125",
+			"alt": "Room #125, 30' x 30', 1 x Wolf Skeleton"
+		},
+		{
+			"Room": "Room #126",
+			"Description": "West Entry Archway\n South Entry Archway\n→ Leads to room #91, inhabited by 3 x Kobold Zombie\n Monster 1 x Owlbear Skeleton\nTreasure: None\n Trap Wall Blade Trap",
+			"title": "Room #126, 30' x 30', 1 x Owlbear Skeleton, Wall Blade Trap",
+			"coords": "266,966,308,1008",
+			"shape": "rect",
+			"href": "#room_126",
+			"alt": "Room #126, 30' x 30', 1 x Owlbear Skeleton, Wall Blade Trap"
+		},
+		{
+			"Room": "Room #127",
+			"Description": "West Entry Stuck Good Wooden Door\n→ Leads to room #106\n East Entry Trapped Wooden Portcullis\nⓉ Camouflaged Pit Trap\n South Entry Stuck Strong Wooden Door (slides to one side)\n ",
+			"coords": "686,1218,728,1260",
+			"title": "Room #127, 30' x 30', Empty",
+			"href": "#room_127",
+			"shape": "rect",
+			"alt": "Room #127, 30' x 30', Empty"
+		}
+	]
+}
